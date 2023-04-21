@@ -61,7 +61,7 @@ dependencies:
   line_awesome_flutter: ^2.0.0
   get: ^4.6.5
   get_storage: ^2.0.3
-  dio: ^4.0.6
+  dio: ^5.1.1
   flutter_polyline_points: ^1.0.0
   google_maps_flutter: ^2.2.3
   flutter_otp_text_field: ^1.1.1
