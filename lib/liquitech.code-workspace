@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../firebasefuncs"
+		},
+		{
+			"path": "../../mpesa flutter backend"
+		},
+		{
+			"path": "../../mpesa c2b register urls"
+		}
+	],
+	"settings": {}
+}

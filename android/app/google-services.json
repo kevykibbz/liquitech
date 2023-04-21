@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "247787900477",
+    "project_id": "liquidtech-2339e",
+    "storage_bucket": "liquidtech-2339e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247787900477:android:4176a8c922699ebcf66454",
+        "android_client_info": {
+          "package_name": "com.devme.liquitech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247787900477-kh6tq953h9scsi32ro3tlh2h6ikd0ida.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyUnS7Ko4-igQyg1SlfGt4cNf8Q-8ivSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247787900477-kh6tq953h9scsi32ro3tlh2h6ikd0ida.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "247787900477-191f37lh14ivjbu3b14abaigb1i9t6h5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.liquitech"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

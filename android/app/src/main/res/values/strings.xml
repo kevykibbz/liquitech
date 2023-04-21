@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LiquiTech</string>
+    <string name="facebook_app_id">967175064447340</string>
+    <string name="facebook_client_token">ca60c04ea99f4ef9dc3d59a63b064a93</string>
+    <string name="fb_login_protocol_scheme">fb967175064447340</string>
+</resources>
